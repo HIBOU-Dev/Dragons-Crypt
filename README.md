@@ -11,7 +11,7 @@
 
 <h3>DESIGN</h3>
 <ul>
-<li>The simple game will be layed out as a text-based adventure/story</li>
+<li>The game is laid out as a text-based adventure/story</li>
 <li>Will consist of a player inventory and limited choices for multiple endings</li>
 </ul>
 
