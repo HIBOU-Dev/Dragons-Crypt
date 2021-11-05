@@ -23,7 +23,7 @@
 <ul>
 <li>Open the command prompt</li>
 <li>Ensure you are in the directory of the game files</li>
-<li>Ensure python is installed, to check type 'python'. If the command is unrecognized, first install python. </li>
+<li>Ensure python is installed, to check type 'python'. If the command is unrecognized, first install python (and the python library termcolor). </li>
 <li>Run 'DC.py'</li>
 <li>Voila!</li>
 </ul>
