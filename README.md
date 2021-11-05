@@ -35,4 +35,8 @@
 <li>Voila!</li>
 </ul>
 
+<h3>Additional Python Libraries may be necessary</h3>
+<ul>
+  <li>termcolor</li>  
+</ul>  
 </html>
