@@ -31,7 +31,7 @@
 <h5>MAC OS/X AND LINUX</h5>
 <ul>
 <li>Open your terminal in the directory of the game</li>
-<li>Run 'python ./DC.py'</li>
+<li>Run 'python3 DC.py'</li>
 <li>Voila!</li>
 </ul>
 
